@@ -1,5 +1,5 @@
 {
-    "name": "Billhop/slim-whoops",
+    "name": "Billhop/php-slim-whoops",
     "type": "library",
     "description": "PHP whoops error on slim framework",
     "keywords": ["error", "exception", "whoops", "slim"],
