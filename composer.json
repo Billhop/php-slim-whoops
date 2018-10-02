@@ -13,11 +13,11 @@
     }],
     "require": {
         "php": ">=5.3.0",
-        "filp/whoops": "1.*"
+        "filp/whoops": "2.*"
     },
     "require-dev": {
     	"slim/slim": "2.*",
-    	"filp/whoops": "1.*",
+    	"filp/whoops": "2.*",
         "phpunit/phpunit": "3.7.*@dev"
     },
     "autoload": {
